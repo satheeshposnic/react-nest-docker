@@ -20,8 +20,8 @@ This project consists of a **frontend** (React with MUI) and a **backend** (Nest
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone (https://github.com/satheeshposnic/react-nest-docker.git)
+cd react-nest-docker
 ```
 
 ## Running with Docker
@@ -162,6 +162,3 @@ frontend/
 ```
 
 ---
-
-## License
-[MIT](LICENSE)
